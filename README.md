@@ -293,7 +293,7 @@ Other articles:
 - http://www.investopedia.com/articles/personal-finance/052015/spotifys-agile-management.asp
 - https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/
 
-I'm not quite clear on the differences between this an classic matrix management used in 80's era Enterprises:
+I'm not quite clear on the differences between this and classic matrix management used in 80's era Enterprises:
 
 - https://www.mindtools.com/pages/article/matrix-management.htm
 - https://hbr.org/1990/07/matrix-management-not-a-structure-a-frame-of-mind
