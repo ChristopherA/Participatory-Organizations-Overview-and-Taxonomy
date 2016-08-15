@@ -133,7 +133,7 @@ My second major category of participatory organization practices is Participator
 
 Under US corporate law, decision making by equity stakeholders has precedence over other stakeholders, in particular, over that of employee stakeholders. One solution for participatory corporations is to make every employee an equity stakeholder. 
 
-There are a variety of was to do this, among which is the Cooperative Corporation. By tradition (and enforced by some state laws, such as in California) each employee has one share and thus one vote in all decision making. Some cooperatives also require consensus by all stakeholder (typically defined as a lack of disagreement as opposed to true unanimous consent).
+There are a variety of ways to do this, among which is the Cooperative Corporation. By tradition (and enforced by some state laws, such as in California) each employee has one share and thus one vote in all decision making. Some cooperatives also require consensus by all stakeholder (typically defined as a lack of disagreement as opposed to true unanimous consent).
 
 There may be some ways to have a cooperative be the managing partner in an LLC where the rest of the general partners come from outside investment. There are also some other LLC forms that have different shared equity approaches, however, the challenge for LLCs is that there can be tax consequences for all when a member enters or exits the organization.
 
@@ -293,7 +293,7 @@ Other articles:
 - http://www.investopedia.com/articles/personal-finance/052015/spotifys-agile-management.asp
 - https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/
 
-I'm not quite clear on the differences between this an classic matrix management used in 80's era Enterprises:
+I'm not quite clear on the differences between this and classic matrix management used in 80's era Enterprises:
 
 - https://www.mindtools.com/pages/article/matrix-management.htm
 - https://hbr.org/1990/07/matrix-management-not-a-structure-a-frame-of-mind
