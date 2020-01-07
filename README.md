@@ -93,6 +93,7 @@ In 2009, [Elinor Ostrom](http://en.wikipedia.org/wiki/Elinor_Ostrom) received 
 
 Related:
 
+- [A Revised “Ostrom’s Design Principles for Collective Governance of the Commons”](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html)
 - [How Commons Can Flourish](https://commonsblog.wordpress.com/2012/08/18/how-commons-can-flourish/)
 
 ### Participatory Ecosystem
