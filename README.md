@@ -202,9 +202,20 @@ Intrapreneuring allows for "intracapital" to be held by employees, allowing for 
 - [Intrapreneuring Today](http://www.pinchot.com/2014/10/intrapreneuring-today.html)
 - [The Entrepreneur's Ten Commandments](http://www.pinchot.com/2011/11/the-intrapreneurs-ten-commandments.html)
 
+
+### Lower-case sociocracy
+
+The Mirram Webster definition of 'sociocracy' is
+so·​ci·​oc·​ra·​cy | \ ˌsōs(h)ēˈäkrəsē \ plural -es
+1: a theoretical form of government in which society as a whole has sovereign rights
+
+This is should be considere distinct from capital Sociocracy, which is a particular form of dynamic governance.
+
+The key point that I like about the lower-case sociocracy definition is that essense that all stakeholders have inalienable rights. For some more thoughts of mine on sovereignty, see [The Path to Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html).
+
 ### Dynamic Governance
 
-Both Holacracy® (a trademarked term) and sociocracy (not trademarked, but 'claimed' in a variety of ways) have inside them common forms of governance and policy principles. The defining 3 principles are: policies are made consent (aka sociocracy's “no paramount and argued objections"); policies are created by circles (aka "distributed leadership); and leadership roles in circles are elected by consent. Holacracy is more specific to corporate governance, whereas sociocracy is used more for communities and non-corporate governance.
+Both Holacracy® (a trademarked term) and upper-case Sociocracy (not trademarked, but 'claimed' in a variety of ways) have inside them common forms of governance and policy principles. The defining 3 principles are: policies are made consent (aka sociocracy's “no paramount and argued objections"); policies are created by circles (aka "distributed leadership); and leadership roles in circles are elected by consent. Holacracy is more specific to corporate governance, whereas sociocracy is used more for communities and non-corporate governance.
 
 ### Double-Linking
 
